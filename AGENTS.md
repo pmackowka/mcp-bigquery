@@ -1,4 +1,4 @@
-# AGENTS.md - MCP-Vibe
+# AGENTS.md - MCP-BigQuery
 
 ## Cel projektu
 Agent AI do analizy danych BigQuery/GA4 przez MCP (Model Context Protocol).

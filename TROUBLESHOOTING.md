@@ -1,4 +1,4 @@
-# MCP-Vibe Troubleshooting
+# MCP-BigQuery Troubleshooting
 
 ## Problem: MCP server się nie uruchamia
 

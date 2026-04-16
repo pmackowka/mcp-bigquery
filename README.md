@@ -1,4 +1,4 @@
-# MCP-Vibe
+# MCP-BigQuery
 
 Projekt do analizy danych GA4/BigQuery z wykorzystaniem OpenCode i MCP (Model Context Protocol). Agent AI może eksplorować schematy tabel, wyszukiwać metadata, walidować SQL i wykonywać zapytania bezpośrednio z poziomu terminala.
 
@@ -17,7 +17,7 @@ Zobacz [TROUBLESHOOTING.md](./TROUBLESHOOTING.md) - rozwiązania typowych proble
 ## Struktura projektu
 
 ```
-MCP-Vibe/
+MCP-BigQuery/
 ├── .env                     # Zmienne środowiskowe (nie commituj - zawiera BQ_PROJECT!)
 ├── .gitignore               # Wykluczenia z git
 ├── AGENTS.md                # Instrukcje dla agenta AI
@@ -94,7 +94,7 @@ opencode
 
 ### 6. Uruchom OpenCode
 ```bash
-cd /Users/p/Documents/dev/MCP-Vibe
+cd /Users/p/Documents/dev/MCP-BigQuery
 opencode
 ```
 
